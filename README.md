@@ -1,7 +1,7 @@
 <p>
     <img alt="Rolls-Royce Logo" width="100" src="https://raw.githubusercontent.com/rropen/MEC/main/src/frontend/public/logo4.png">
     <br>
-    Repo Template to be used throughout the Rolls-Royce GitHub Enterprise Instances
+    General repository used to hold default standard GitHub files for the whole organization.
 </p>
 
 <!-- Place any useful shield.io shields here.  Use the style=flat styling option. -->
@@ -14,9 +14,7 @@
 
 ## Overview
 
-A repository to hold default standard GitHub files for the whole organization.
-
-Files:
+Included Files:
 
 * CODE_OF_CONDUCT.md
 * CONTRIBUTING.md
